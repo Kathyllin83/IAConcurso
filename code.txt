@@ -1,0 +1,8 @@
+py flashcard_generator.py
+
+venv_estudo\Scripts\activate
+streamlit run app_estudo_llm.py
+
+pip install scikit-learn
+
+streamlit run app_estudo_qa.py
