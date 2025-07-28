@@ -1,0 +1,98 @@
+{
+    "quiz_history": [
+        {
+            "quiz_name": "Meu Quiz 1",
+            "score": 1,
+            "question_index": 3,
+            "current_flashcard": {
+                "pergunta": "O que a Lei das Doze Tábuas romana começou a limitar, sendo precursora dos sistemas de civil law modernos?",
+                "resposta": "O autoritarismo estatal ao reconhecer direitos como propriedade e liberdade.",
+                "tags": [
+                    "histórica democratica do estado democratico de direito"
+                ]
+            },
+            "options": [
+                "A legitimidade.",
+                "Todo o sistema jurídico (regras, princípios, objetivos).",
+                "Preservar uma constituição democrática, liberal, pluralista e humanista.",
+                "O autoritarismo estatal ao reconhecer direitos como propriedade e liberdade."
+            ],
+            "correct_answer": "O autoritarismo estatal ao reconhecer direitos como propriedade e liberdade.",
+            "total_answered": 2,
+            "correct_count": 1,
+            "quiz_started": true,
+            "details": [
+                {
+                    "pergunta": "Qual filósofo romano expressou a ideia de que 'é a lei que governa... não o indivíduo que por acaso é o magistrado'?",
+                    "resposta_correta": "Cícero",
+                    "resposta_usuario": "O consentimento parlamentar.",
+                    "status": "Errado"
+                },
+                {
+                    "pergunta": "Qual era a principal crítica ao Estado Liberal de Direito que levou à necessidade de intervenção estatal?",
+                    "resposta_correta": "A geração de imensas injustiças e intensa desigualdade socioeconômica.",
+                    "resposta_usuario": "A geração de imensas injustiças e intensa desigualdade socioeconômica.",
+                    "status": "Certo"
+                }
+            ],
+            "selected_option": null,
+            "quiz_submitted": false,
+            "user_answer": null,
+            "answered_correctly": null
+        },
+        {
+            "quiz_name": "Meu Quiz 2",
+            "score": 1,
+            "question_index": 3,
+            "current_flashcard": {
+                "pergunta": "O que a Lex Regia romana representou em termos de 'Estado de Direito'?",
+                "resposta": "Uma ficção legal que sancionava a ditadura, permitindo que 'a lei autorizasse a ilegalidade'.",
+                "tags": [
+                    "histórica democratica do estado democratico de direito"
+                ]
+            },
+            "options": [
+                "Prevenir o controle absoluto por um indivíduo ou grupo, preservando a liberdade.",
+                "Uma ficção legal que sancionava a ditadura, permitindo que 'a lei autorizasse a ilegalidade'.",
+                "A geração de imensas injustiças e intensa desigualdade socioeconômica.",
+                "Como a 'boca da lei', com pouca liberdade interpretativa."
+            ],
+            "correct_answer": "Uma ficção legal que sancionava a ditadura, permitindo que 'a lei autorizasse a ilegalidade'.",
+            "total_answered": 2,
+            "correct_count": 1,
+            "quiz_started": true,
+            "details": [
+                {
+                    "pergunta": "A Declaração dos Direitos do Homem e do Cidadão (1789) é descrita como abstrata e universalizante, sustentada por um tripé ideológico. Quais elementos constituíam esse tripé?",
+                    "resposta_correta": "Intelectualismo, universalismo e individualismo.",
+                    "resposta_usuario": "Um 'contrato social' entre indivíduos.",
+                    "status": "Errado"
+                },
+                {
+                    "pergunta": "Durante o 'vazio estatal' da Idade Média, qual instituição desempenhou um papel dominante na regulação da vida social e do direito?",
+                    "resposta_correta": "A Igreja Romana.",
+                    "resposta_usuario": "A Igreja Romana.",
+                    "status": "Certo"
+                }
+            ],
+            "selected_option": null,
+            "quiz_submitted": false,
+            "user_answer": null,
+            "answered_correctly": null
+        }
+    ],
+    "current_quiz_data": {
+        "quiz_name": "Quiz Atual",
+        "score": 0,
+        "question_index": 0,
+        "current_flashcard": null,
+        "options": [],
+        "correct_answer": "",
+        "total_answered": 0,
+        "correct_count": 0,
+        "quiz_started": false,
+        "details": [],
+        "selected_option": null,
+        "quiz_submitted": false
+    }
+}

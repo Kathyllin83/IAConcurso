@@ -6,3 +6,4 @@ streamlit run app_estudo_llm.py
 pip install scikit-learn
 
 streamlit run app_estudo_qa.py
+pip install matplotlib
